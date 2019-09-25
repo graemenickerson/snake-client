@@ -1,5 +1,5 @@
 # Snake Client
-### September 2019
+September 2019
 
 ### Objectives
 Before we dig in here, let's step back and talk about what we're looking to get out of it.
